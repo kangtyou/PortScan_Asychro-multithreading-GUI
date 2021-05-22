@@ -125,7 +125,7 @@ def receivethreader(lockdata):
         
 MY_SENDER = '1573049371@qq.com'  # 发件人邮箱账号
 MY_ADMIN = '1573049371@qq.com'
-MY_PASS = 'ggkzzxmjopdxijjh'
+MY_PASS = 'xxxxxxxxxxxxxxx'
 class Mail:
     def __init__(self):
         # 登录邮箱
